@@ -1,0 +1,21 @@
+body {
+    background-color: bisque;
+    border: 5px solid black;
+    width: 500px;
+    margin: 50PX auto;
+    padding: 50px;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+html{
+    background-color:brown;
+}
+a {
+    color: darkslategray;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
